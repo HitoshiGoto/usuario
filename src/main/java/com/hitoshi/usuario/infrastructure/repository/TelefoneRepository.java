@@ -1,6 +1,6 @@
 package com.hitoshi.usuario.infrastructure.repository;
 
-import com.hitoshi.aprendendospring.infrastructure.entity.Telefone;
+import com.hitoshi.usuario.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
